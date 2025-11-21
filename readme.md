@@ -59,3 +59,4 @@ o	Restart the program to verify data persistence
 2. Add employee screen: ![alt text](image-1.png)
 3. View results: ![alt text](image-3.png)
 4. Delete Operation: ![alt text](image-2.png)
+
